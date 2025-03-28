@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: miapp
-        image: luisdaries/prueba:1.1
+        image: luisdaries/prueba:1.2
         ports:
         - containerPort: 5000
 ---
